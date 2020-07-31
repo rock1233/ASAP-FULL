@@ -1,0 +1,7 @@
+{
+    "/BmbService.svc/*": {
+      "target": "http://localhost:58527",
+      "secure": false,
+      "logLevel": "debug"
+    }
+  }
