@@ -1,0 +1,57 @@
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\ApplicationInsights.config
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\BmbWcfService.dll.config
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\BmbWcfService.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\BmbWcfService.pdb
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Web.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.WindowsServer.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.ApplicationInsights.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Web.xml
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.AI.WindowsServer.xml
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\bin\Microsoft.ApplicationInsights.xml
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.csprojResolveAssemblyReference.cache
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.dll
+c:\users\assaadmakdessi\documents\visual studio 2015\Projects\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.pdb
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\ApplicationInsights.config
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\BmbWcfService.dll.config
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\BmbWcfService.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\BmbWcfService.pdb
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Web.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Web.xml
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.dll
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.pdb
+C:\Users\AssaadMakdessi\Desktop\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.csprojResolveAssemblyReference.cache
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\ApplicationInsights.config
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\BmbWcfService.dll.config
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\BmbWcfService.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\BmbWcfService.pdb
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Web.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.WindowsServer.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.ApplicationInsights.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.Web.xml
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.AI.WindowsServer.xml
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\bin\Microsoft.ApplicationInsights.xml
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.csprojResolveAssemblyReference.cache
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.dll
+C:\Personal\Xamarin\BMB\BmbWcfService\BmbWcfService\obj\Debug\BmbWcfService.pdb
